@@ -69,7 +69,7 @@ function newbreed(i){
     let i=0;
     let button = document.querySelector(".butt");
     button.addEventListener("click",function(e){
-    
+       
     
       newbreed(i);
     
